@@ -7,6 +7,7 @@
 a {
 	text-decoration: none;
 	color: white;
+	
 }
 
 html {
@@ -80,11 +81,13 @@ header {
 	background-image: url("../img/22.jpg");
 }
 .carousel-img-two {
-	background-image: url("../img/1.jpg");
+	background-image: url("../img/ogrodzenie1.webp");
 }
 .carousel-img-three {
-	background-image: url("../img/11.jpg");
+	background-image: url("../img/palisady.webp");
 }
+
+
 
 .display-4 {
 	font-weight: bold;
